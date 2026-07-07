@@ -1,0 +1,18 @@
+🚀 Linux Security & Hardening – Building a Stronger and Safer Linux Environment
+
+As part of my Linux System Administration learning journey, I explored the topic of Linux Security & Hardening, an essential practice for protecting Linux-based systems from security threats and unauthorized access.
+
+Through this learning activity, I understood that securing a Linux system is not achieved through a single solution but by implementing multiple layers of protection. Key security practices include managing user permissions, enforcing strong authentication policies, configuring firewalls, applying regular security updates, monitoring system activities, and controlling access through mechanisms like SELinux.
+
+Linux hardening plays a major role in cybersecurity because Linux powers servers, cloud platforms, enterprise systems, and critical infrastructure worldwide. A properly hardened system reduces vulnerabilities, prevents privilege misuse, improves reliability, and strengthens overall defense against cyber attacks.
+
+This activity helped me gain practical knowledge about secure system administration, access control, network protection, and the importance of following security best practices as a Linux administrator.
+
+Continuous learning and implementing secure practices are important steps toward building safer digital environments.
+
+#LinuxAdministration
+#CyberSecurity
+#LinuxSecurity
+#SystemAdministration
+#MOOCLearning
+#SAKEC
